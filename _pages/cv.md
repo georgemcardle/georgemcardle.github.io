@@ -9,11 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
+Employment
+======
+* Resarch Fellow - University of Nottingham (2024 - Present)
+  * Supervisor: Adam Gammon-Smith
+* Research Fellow - University of Birmingham (2023 - 2024)
+  * Supervisor: Igor Lerner
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Theoretical Physics, University of Birmingham (2023)
+  * Thesis Title: Signatures of the Absence of Thermalisation in Electronic Systems
+  * Supervisor: Igor Lerner
+* MSci Theoretical Physics - University of Birmingham (2019)
+  * Awarded SWJ Smith Prize for highest overall mark
+  * Dissertation Title: Full counting statistics of a one-dimensional Bose gas at finite temperatures
+  * Supervisor: Dimitri Gangardt
 
 Work experience
 ======
