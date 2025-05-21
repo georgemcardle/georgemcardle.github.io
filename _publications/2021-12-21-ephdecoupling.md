@@ -2,7 +2,7 @@
 title: "Electron-Phonon Decoupling in Two Dimensions"
 collection: publications
 category: manuscripts
-permalink: /publication/ephdecoupling
+permalink: /publication/2021-12-21-ephdecoupling
 excerpt: ''
 date: 2021-12-21
 venue: 'Scientific Reports'
