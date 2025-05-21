@@ -3,6 +3,7 @@ title: "Electron-Phonon Decoupling in Two Dimensions"
 collection: publications
 category: manuscripts
 permalink: /publication/ephdecoupling
+excerpt: ''
 paperurl: 'https://arxiv.org/abs/2201.10882'
 citation: 'McArdle, G., Lerner, I.V. Electron-phonon decoupling in two dimensions. Sci Rep 11, 24293 (2021)'
 ---
