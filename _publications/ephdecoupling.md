@@ -4,6 +4,8 @@ collection: publications
 category: manuscripts
 permalink: /publication/ephdecoupling
 excerpt: ''
+date: 2021-12-21
+venue: 'Scientific Reports'
 paperurl: 'https://arxiv.org/abs/2201.10882'
 citation: 'McArdle, G., Lerner, I.V. Electron-phonon decoupling in two dimensions. Sci Rep 11, 24293 (2021)'
 ---
