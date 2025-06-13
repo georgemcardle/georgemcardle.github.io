@@ -1,11 +1,11 @@
 ---
 title: "Postgraduate Course on Topological Matter"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2026-spring
-venue: "University 1, Department"
+type: "Postgraduate Course"
+permalink: /teaching/2026-top-mat
+venue: "University of Nottingham"
 date: 2026-01-01
-location: "City, Country"
+location: "Nottingham, UK"
 ---
 
 <!-- ---
