@@ -2,7 +2,7 @@
 title: "Postgraduate Course on Topological Matter"
 collection: teaching
 type: "Postgraduate Course"
-permalink: /teaching/2026-top-mat
+permalink: /teaching/2015-spring-teaching-1
 venue: "University of Nottingham"
 date: 2026-01-01
 location: "Nottingham, UK"
