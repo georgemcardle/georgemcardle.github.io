@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Employment
+Research Employment
 ======
 * Resarch Fellow - University of Nottingham (2024 - Present)
   * Supervisor: Adam Gammon-Smith
@@ -26,50 +26,16 @@ Education
   * Dissertation Title: Full counting statistics of a one-dimensional Bose gas at finite temperatures
   * Supervisor: Dimitri Gangardt
 
-Work experience
+Other Employment
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Postgraduate Teaching Assistant - University of Birmingham (2019 – 2023)
+* Research Intern - Neutronics Group, STFC (July – September 2018)
+  * Supervisor: Steven Lilley
+* Software Tester - Graide (July 2020 - January 2021)
+* Maple TA Intern - University of Birmingham (July – September 2017)
+  
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
