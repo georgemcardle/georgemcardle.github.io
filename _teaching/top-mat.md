@@ -2,9 +2,9 @@
 title: "Postgraduate Course on Topological Matter"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/spring
+permalink: /teaching/2026-spring
 venue: "University 1, Department"
-date: 2015-01-01
+date: 2026-01-01
 location: "City, Country"
 ---
 
