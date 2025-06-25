@@ -12,7 +12,7 @@ Topological superconductors are of interest for many reasons including the poten
 
 A common method to realise this topological state is in semiconductor-superconductor heterostructures where an external magnetic field is used to break time-reversal symmetry. However, this magnetic field can also destroy the superconducting state. Our research focuses on using altermagnet-superconductor heterostructures to realise topological superconductivty whilst maintaining zero net magnetisation. Our work analyses more advanced models in order to aid experiments in the search for topological superconductivity.
 
-## Electron-Phonon Decoupling
+## Electron-Phonon Decoupling
 ------
 Many-body localisation (MBL) and its associated phenomena was originally predicted to occur in disordered systems of interacting electrons. However, its detection has remained elusive in these systems, often due to the presence of phonons which act as a thermal bath and therefore cause the system to thermalise, meaning the system can't be in a localised state. 
 
