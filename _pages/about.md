@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral research fellow at the University of Nottingham working with Adam Gammon-Smith, having previously done my PhD and a short postdoctoral position at the University of Birmingham with Igor Lerner. 
+I am a postdoctoral research fellow at the University of Nottingham working with Adam Gammon-Smith, having previously done my PhD and a postdoctoral position at the University of Birmingham with Igor Lerner. 
 
 My general research interests consist of a variety of topics in theoretical condensed matter physics including:
 
